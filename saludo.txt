@@ -1,0 +1,4 @@
+Hola mi nombre es Josue Gonzalez, tengo 16 años.
+
+Este un archivo .txt que usaremos para hacer experimentos 
+con Git.
