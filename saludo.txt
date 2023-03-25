@@ -1,4 +1,6 @@
 Hola mi nombre es Josue Gonzalez, tengo 16 años.
 
+Nací en Caracas, Venezuela; en el año 2006.
+
 Este un archivo .txt que usaremos para hacer experimentos 
 con Git.
