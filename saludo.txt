@@ -2,5 +2,7 @@ Hola mi nombre es Josue Gonzalez, tengo 16 años.
 
 Nací en Caracas, Venezuela; en el año 2006, el día 19 de Junio.
 
+En el año en que escribo esto, 26 de marzo de 2023, cumpló 17 años.
+
 Este un archivo .txt que usaremos para hacer experimentos 
 con Git.
