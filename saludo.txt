@@ -10,4 +10,4 @@ llevo alrededor de 5 meses en España.
 Este un archivo .txt que usaremos para hacer experimentos 
 con Git.
 
-token de git: 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
+token de git: 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
