@@ -1,4 +1,4 @@
-    # Hyperblog :alien:
+# Hyperblog :alien:
 Esta es una practica hecha para un articulo que hice yo con el fin de ense;ar como usar Git y GitHub para un articulo que hice mediante Notion.
 
 *Algunos de los contenidos que vemos en el articulo, son:*
