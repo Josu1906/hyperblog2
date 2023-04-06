@@ -4,10 +4,10 @@ Nací en Caracas, Venezuela; en el año 2006, el día 19 de Junio.
 
 En el año en que escribo esto, 26 de marzo de 2023, cumpló 17 años.
 
-Me mude hace un año a España, en busca de nuevas oportunidades. A la fecha en que escribo esta biografia
-llevo alrededor de 5 meses en España.
+Me mude hace un año a España, en busca de nuevas oportunidades. A la fecha en que escribo esta biografia llevo alrededor de 5 meses en España.
 
-Este un archivo .txt que usaremos para hacer experimentos 
-con Git.
+Master 1
+
+Este un archivo .txt que usaremos para hacer experimentos  con Git.
 
 token de git: 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
